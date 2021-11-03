@@ -1,0 +1,14 @@
+<laptops>
+  <laptop name = "Dell">
+     <price value ="5000"/>
+     <ram value="8gb"/>
+  </laptop>
+  <laptop name = "Apple">
+     <price value ="25000"/>
+     <ram value="16gb"/>
+  </laptop>
+  <laptop name = "HP">
+     <price value ="3000"/>
+     <ram value="4gb"/>
+  </laptop>
+</laptops>
